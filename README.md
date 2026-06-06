@@ -7,9 +7,8 @@ Premium ImGui-based software loader with Authon authentication integration. Dire
 
 ## Menu İmage
 
-![Authon]((https://github.com/authonpro/imgui-Keyauth-alternative-Loader/blob/main/Menu.png))
-![Authon]((https://github.com/authonpro/imgui-Keyauth-alternative-Loader/blob/main/Menu2.png))
-
+![Menu Image](https://raw.githubusercontent.com/authonpro/imgui-Keyauth-alternative-Loader/main/Menu.png)
+![Menu Image2](https://raw.githubusercontent.com/authonpro/imgui-Keyauth-alternative-Loader/main/Menu2.png)
 ## Features
 
 - **Authentication** — Login / Register with username + password + license key
